@@ -1,0 +1,39 @@
+Recommended Dataset:
+
+Kaggle - House Prices: Advanced Regression Techniques
+
+Link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
+Description:
+
+Contains 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa.
+
+Ideal for regression models like Linear Regression, Random Forest, Gradient Boosting, and more.
+
+Includes missing values, categorical and numerical variables — perfect for real-world modeling.
+
+
+
+2. Alternative Datasets:
+
+a. Ames Housing Dataset
+
+Source: UCI Machine Learning Repository or Kaggle
+
+Features: 2930 observations with 80+ features
+
+Use Case: Advanced regression and feature engineering tasks
+
+
+b. Boston Housing Dataset (not recommended for modern use due to ethical concerns)
+
+Contains outdated and limited data.
+
+
+c. Real Estate Valuation Data Set (UCI)
+
+Link: https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set
+
+Region: Taiwan
+
+Features: House age, distance to MRT station, number of convenience stores, etc.
